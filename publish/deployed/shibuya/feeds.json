@@ -1,0 +1,23 @@
+{
+	"PERI": {
+		"asset": "PERI",
+		"feed": "",
+		"standalone": true
+	},
+	"ETH": {
+		"asset": "ETH",
+		"feed": ""
+	},
+	"BTC": {
+		"asset": "BTC",
+		"feed": ""
+	},
+	"USDC": {
+		"asset": "USDC",
+		"feed": ""
+	},
+	"DAI": {
+		"asset": "DAI",
+		"feed": ""
+	}
+}

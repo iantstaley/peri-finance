@@ -1,0 +1,20 @@
+[
+	"Depot",
+	"EternalStorage",
+	"ExchangeState",
+	"FeePoolEternalStorage",
+	"FeePoolState",
+	"Proxy",
+	"ProxyERC20",
+	"RewardEscrow",
+	"RewardsDistribution",
+	"SafeDecimalMath",
+	"SupplySchedule",
+	"PeriFinanceEscrow",
+	"PeriFinanceState",
+	"TokenState",
+	"ReadProxyAddressResolver",
+	"StakingStateUSDC",
+	"BlacklistManager",
+	"StakingState"
+]

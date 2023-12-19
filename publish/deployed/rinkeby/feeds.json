@@ -1,0 +1,15 @@
+{
+	"PERI": {
+		"asset": "PERI",
+		"feed": "",
+		"standalone": true
+	},
+	"USDC": {
+		"asset": "USDC",
+		"feed": "0xa24de01df22b63d23Ebc1882a5E3d4ec0d907bFB"
+	},
+	"DAI": {
+		"asset": "DAI",
+		"feed": "0x2bA49Aaa16E6afD2a993473cfB70Fa8559B523cF"
+	}
+}

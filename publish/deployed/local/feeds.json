@@ -1,0 +1,5 @@
+{
+	"PERI": { "asset": "PERI", "feed": "0x0", "standalone": true },
+	"ETH": { "asset": "ETH", "feed": "0x0" },
+	"BTC": { "asset": "BTC", "feed": "0x0" }
+}

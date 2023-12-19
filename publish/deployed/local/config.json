@@ -1,0 +1,206 @@
+{
+	"SystemSettings": {
+		"deploy": true
+	},
+	"PeriFinanceBridgeToOptimism": {
+		"deploy": true
+	},
+	"AddressResolver": {
+		"deploy": true
+	},
+	"ReadProxyAddressResolver": {
+		"deploy": true
+	},
+	"BinaryOptionMarketFactory": {
+		"deploy": true
+	},
+	"BinaryOptionMarketManager": {
+		"deploy": true
+	},
+	"BinaryOptionMarketData": {
+		"deploy": true
+	},
+	"CollateralManager": {
+		"deploy": true
+	},
+	"CollateralManagerState": {
+		"deploy": true
+	},
+	"CollateralEth": {
+		"deploy": true
+	},
+	"CollateralErc20": {
+		"deploy": true
+	},
+	"CollateralShort": {
+		"deploy": true
+	},
+	"CollateralStateErc20": {
+		"deploy": true
+	},
+	"CollateralStateEth": {
+		"deploy": true
+	},
+	"CollateralStateShort": {
+		"deploy": true
+	},
+	"DebtCache": {
+		"deploy": true
+	},
+	"Depot": {
+		"deploy": true
+	},
+	"TradingRewards": {
+		"deploy": true
+	},
+	"EscrowChecker": {
+		"deploy": true
+	},
+	"ExchangeRates": {
+		"deploy": true
+	},
+	"Exchanger": {
+		"deploy": true
+	},
+	"ExchangeState": {
+		"deploy": true
+	},
+	"EtherCollateral": {
+		"deploy": true
+	},
+	"EtherCollateralpUSD": {
+		"deploy": true
+	},
+	"FeePool": {
+		"deploy": true
+	},
+	"FeePoolState": {
+		"deploy": true
+	},
+	"FeePoolEternalStorage": {
+		"deploy": true
+	},
+	"FlexibleStorage": {
+		"deploy": true
+	},
+	"DelegateApprovals": {
+		"deploy": true
+	},
+	"DelegateApprovalsEternalStorage": {
+		"deploy": true
+	},
+	"Issuer": {
+		"deploy": true
+	},
+	"EternalStorageLiquidations": {
+		"deploy": true
+	},
+	"Liquidations": {
+		"deploy": true
+	},
+	"SupplySchedule": {
+		"deploy": true
+	},
+	"PeriFinance": {
+		"deploy": true
+	},
+	"PeriFinanceEscrow": {
+		"deploy": true
+	},
+	"RewardEscrow": {
+		"deploy": true
+	},
+	"RewardEscrowV2": {
+		"deploy": true
+	},
+	"RewardsDistribution": {
+		"deploy": true
+	},
+	"PeriFinanceState": {
+		"deploy": true
+	},
+	"SystemStatus": {
+		"deploy": true
+	},
+	"PynthUtil": {
+		"deploy": true
+	},
+	"DappMaintenance": {
+		"deploy": true
+	},
+	"PynthpUSD": {
+		"deploy": true
+	},
+	"PynthpBTC": {
+		"deploy": true
+	},
+	"ProxyERC20": {
+		"deploy": true
+	},
+	"ProxyERC20pUSD": {
+		"deploy": true
+	},
+	"ProxyERC20pBTC": {
+		"deploy": true
+	},
+	"ProxyFeePool": {
+		"deploy": true
+	},
+	"ProxyPeriFinance": {
+		"deploy": true
+	},
+	"SafeDecimalMath": {
+		"deploy": true
+	},
+	"Math": {
+		"deploy": true
+	},
+	"TokenStatePeriFinance": {
+		"deploy": true
+	},
+	"TokenStatepUSD": {
+		"deploy": true
+	},
+	"TokenStatepBTC": {
+		"deploy": true
+	},
+	"TokenStatepETH": {
+		"deploy": true
+	},
+	"ProxyERC20pETH": {
+		"deploy": true
+	},
+	"PynthpETH": {
+		"deploy": true
+	},
+	"ExternalTokenStakeManager": {
+		"deploy": true
+	},
+	"StakingState": {
+		"deploy": true
+	},
+	"BlacklistManager": {
+		"deploy": true
+	},
+	"BridgeState": {
+		"deploy": true
+	},
+	"BridgeStatepUSD": {
+		"deploy": true
+	},
+	"CrossChainManager": {
+		"deploy": true
+	},
+	"CrossChainState": {
+		"deploy": true
+	},
+	"MockToken": {
+		"deploy": true
+	},
+	"USDC": {
+		"deploy": true
+	},
+	"DAI": {
+		"deploy": true
+	}
+}

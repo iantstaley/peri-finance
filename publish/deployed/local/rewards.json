@@ -1,0 +1,7 @@
+[
+	{
+		"name": "PERIUniswapV1",
+		"stakingToken": "PERIUniswapV1",
+		"rewardsToken": "ProxyERC20"
+	}
+]

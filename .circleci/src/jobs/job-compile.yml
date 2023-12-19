@@ -1,0 +1,7 @@
+# Compiles all contracts and fails with oversized contracts
+{{> job-header.yml}}
+steps:
+  - checkout
+  - attach_workspace:
+      at: .
+  - run: npx hardhat compile --optimizer --fail-oversize
